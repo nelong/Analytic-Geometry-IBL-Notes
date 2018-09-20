@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.9)  22 JAN 2018 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.16)  20 SEP 2018 08:20
 entering extended mode
 **./Analytic_Geometry_IBL_Notes.tex
 (Analytic_Geometry_IBL_Notes.tex
-LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 \@input{JIBLM.aux}
 \openout2 = `JIBLM.aux'.
 
@@ -25,7 +25,7 @@ File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\piff\time.sty
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\piff\time.sty
 time.sty v1.0a, (C) Copyright Mike Piff, 15 Feb 1995 10:55:01 BST
 Package: time 
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
@@ -44,7 +44,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2017/09/02 v2.17a AMS math features
+Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
@@ -64,20 +64,20 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 213.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count89
 \leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 375.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count91
 \DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count93
 \c@MaxMatrixCols=\count94
 \dotsspace@=\muskip10
@@ -98,8 +98,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
@@ -128,25 +128,33 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
 ))
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.sty
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.sty
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks27
 )
-\c@DefaultLines=\count100
-\c@DefaultDepth=\count101
+\c@DefaultLines=\count101
+\c@DefaultDepth=\count102
 \DefaultFindent=\dimen112
 \DefaultNindent=\dimen113
 \DefaultSlope=\dimen114
 \DiscardVskip=\dimen115
 \L@lbox=\box28
 \L@tbox=\box29
-\c@L@lines=\count102
-\c@L@depth=\count103
+\c@L@lines=\count103
+\c@L@depth=\count104
 \L@Pindent=\dimen116
 \L@Findent=\dimen117
 \L@Nindent=\dimen118
@@ -161,7 +169,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \LettrineDepth=\dimen127
 
 Loading lettrine.cfg
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.cfg))
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.cfg))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
@@ -238,14 +246,14 @@ Loading kernel: messages; fonts; allocations: state,
  direction,
 \d@X=\dimen151
 \d@Y=\dimen152
-\K@=\count104
-\KK@=\count105
-\Direction=\count106
+\K@=\count105
+\KK@=\count106
+\Direction=\count107
 \K@dXdY=\dimen153
 \K@dYdX=\dimen154
 \xyread@=\read1
 \xywrite@=\write3
-\csp@=\count107
+\csp@=\count108
 \quotPTK@=\dimen155
 
 utility macros; pictures: \xy, positions,
@@ -257,7 +265,7 @@ utility macros; pictures: \xy, positions,
 kernel objects: directionals, circles, text; options; algorithms: directions,
 edges, connections;  Xy-pic loaded)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
 Package: xy 2013/10/06 Xy-pic version 3.8.9
 
@@ -265,7 +273,7 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: All features v.3.8
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex"
  Xy-pic option: Curve and Spline extension v.3.12 curve,
-\crv@cnt@=\count108
+\crv@cnt@=\count109
 \crvpts@=\toks32
 \splinebox@=\box33
 \splineval@=\dimen156
@@ -291,13 +299,13 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: Colour extension v.3.11 loaded)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex"
  Xy-pic option: Matrix feature v.3.14
-\Row=\count109
-\Col=\count110
+\Row=\count110
+\Col=\count111
 \queue@=\toks33
 \queue@@=\toks34
-\qcount@=\count111
-\qcount@@=\count112
-\matrixsize@=\count113
+\qcount@=\count112
+\qcount@@=\count113
+\matrixsize@=\count114
  loaded)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex"
  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
@@ -315,10 +323,10 @@ Xy-pic pdf driver: `line' extension support
 Xy-pic pdf driver: `rotate' extension support
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-ro.tex" loaded) loaded))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -331,29 +339,28 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
 )
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\endnotes\endnotes.sty
-\c@endnote=\count114
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\endnotes\endnotes.sty
+\c@endnote=\count115
 \endnotesep=\dimen164
 \@enotes=\write4
 )
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip49
-\f@nch@O@elh=\skip50
-\f@nch@O@erh=\skip51
-\f@nch@O@olh=\skip52
-\f@nch@O@orh=\skip53
-\f@nch@O@elf=\skip54
-\f@nch@O@erf=\skip55
-\f@nch@O@olf=\skip56
-\f@nch@O@orf=\skip57
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
 )
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
 \CommentStream=\write5
 
 Excluding comment 'comment')
-\c@theorem=\count115
+\c@theorem=\count116
 ) Include comment 'annotation'
 (Analytic_Geometry_IBL_Notes.aux)
 \openout1 = `Analytic_Geometry_IBL_Notes.aux'.
@@ -375,34 +382,41 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(C:\Users\longne\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(C:\Users\nelon\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
+\scratchcounter=\count117
 \scratchdimen=\dimen165
 \scratchbox=\box34
-\nofMPsegments=\count117
-\nofMParguments=\count118
+\nofMPsegments=\count118
+\nofMParguments=\count119
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count119
+\MPscratchCnt=\count120
 \MPscratchDim=\dimen166
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks36
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
+))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
@@ -411,28 +425,15 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -477,384 +478,342 @@ Package xypdf Info: Line width: 0.3999pt on input line 18.
 
 
 
-{C:/Users/longne/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/nelon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] Including '
+annotation' comment.
+\openout5 = `comment.cut'.
+
+
+Straight input of comment.cut. (comment.cut
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+ [2
+
+
+] [3]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 18.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
- [2
-
-
-]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+ [4]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [5] [6]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
- [3]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+ [7])
+[8] [9
+
+] [10]
 Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
 [1
 
 
 ] [2] [3]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 209.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 171.
- [4] [5] [6] [7]
-<2dcoord.png, id=44, 324.0105pt x 300.52275pt>
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 232.
+ [4] [5] [6] [7] <2dcoord.png, id=66, 324.0105pt x 300.52275pt>
 File: 2dcoord.png Graphic file (type png)
+
 <use 2dcoord.png>
-Package pdftex.def Info: 2dcoord.png  used on input line 302. on input line 302
-.
-Package pdftex.def Info: Requested size: 243.00728pt x 225.3915pt on input line
- 302.
+Package pdftex.def Info: 2dcoord.png used on input line 363.
+(pdftex.def)             Requested size: 243.00728pt x 225.3915pt.
  [8] [9 <./2dcoord.png>]
-<trianglearray.png, id=53, 688.974pt x 322.806pt>
+<trianglearray.png, id=76, 688.974pt x 322.806pt>
 File: trianglearray.png Graphic file (type png)
-<use trianglearray.png>
-Package pdftex.def Info: trianglearray.png  used on input line 345. on input li
-ne 345.
-Package pdftex.def Info: Requested size: 344.48616pt x 161.4026pt on input line
- 345.
- [10] [11 <./trianglearray.png>]
-<2dcoordchange.png, id=63, 326.4195pt x 300.52275pt>
+ <use trianglearray.png>
+Package pdftex.def Info: trianglearray.png used on input line 406.
+(pdftex.def)             Requested size: 344.48616pt x 161.4026pt.
+
+[10] [11 <./trianglearray.png>]
+<2dcoordchange.png, id=85, 326.4195pt x 300.52275pt>
 File: 2dcoordchange.png Graphic file (type png)
-<use 2dcoordchange.png>
-Package pdftex.def Info: 2dcoordchange.png  used on input line 409. on input li
-ne 409.
-Package pdftex.def Info: Requested size: 244.81401pt x 225.3915pt on input line
- 409.
- [12] [13 <./2dcoordchange.png>]
+ <use 2dcoordchange.png>
+Package pdftex.def Info: 2dcoordchange.png used on input line 470.
+(pdftex.def)             Requested size: 244.81401pt x 225.3915pt.
+
+[12] [13 <./2dcoordchange.png>]
 Missing character: There is no ¬ in font ptmri7t!
 Missing character: There is no † in font ptmri7t!
  [14]
-<transvect.png, id=73, 634.16925pt x 262.581pt>
+<transvect.png, id=95, 634.16925pt x 262.581pt>
 File: transvect.png Graphic file (type png)
-<use transvect.png>
-Package pdftex.def Info: transvect.png  used on input line 486. on input line 4
-86.
-Package pdftex.def Info: Requested size: 317.08385pt x 131.29016pt on input lin
-e 486.
- [15 <./transvect.png>]
-<vecadd.png, id=77, 391.4625pt x 181.27725pt>
+ <use transvect.png>
+Package pdftex.def Info: transvect.png used on input line 547.
+(pdftex.def)             Requested size: 317.08385pt x 131.29016pt.
+ [15 <./transvect.png>] <vecadd.png, id=100, 391.4625pt x 181.27725pt>
 File: vecadd.png Graphic file (type png)
-<use vecadd.png>
-Package pdftex.def Info: vecadd.png  used on input line 514. on input line 514.
+ <use vecadd.png>
+Package pdftex.def Info: vecadd.png used on input line 575.
+(pdftex.def)             Requested size: 293.59615pt x 135.9576pt.
 
-Package pdftex.def Info: Requested size: 293.59615pt x 135.9576pt on input line
- 514.
- [16 <./vecadd.png>]
-<vectorarray.png, id=82, 539.616pt x 264.99pt>
+[16 <./vecadd.png>] <vectorarray.png, id=104, 539.616pt x 264.99pt>
 File: vectorarray.png Graphic file (type png)
+
 <use vectorarray.png>
-Package pdftex.def Info: vectorarray.png  used on input line 546. on input line
- 546.
-Package pdftex.def Info: Requested size: 323.7721pt x 158.99522pt on input line
- 546.
+Package pdftex.def Info: vectorarray.png used on input line 607.
+(pdftex.def)             Requested size: 323.7721pt x 158.99522pt.
 File: vectorarray.png Graphic file (type png)
-<use vectorarray.png>
-Package pdftex.def Info: vectorarray.png  used on input line 552. on input line
- 552.
-Package pdftex.def Info: Requested size: 323.7721pt x 158.99522pt on input line
- 552.
- [17 <./vectorarray.png>] [18] [19] [20]
-<projvect.png, id=96, 337.26pt x 268.6035pt>
+ <use vectorarray.png>
+Package pdftex.def Info: vectorarray.png used on input line 613.
+(pdftex.def)             Requested size: 323.7721pt x 158.99522pt.
+ [17 <./vectorarray.png>] [18]
+[19] [20] <projvect.png, id=118, 337.26pt x 268.6035pt>
 File: projvect.png Graphic file (type png)
-<use projvect.png>
-Package pdftex.def Info: projvect.png  used on input line 670. on input line 67
-0.
-Package pdftex.def Info: Requested size: 168.62958pt x 134.30142pt on input lin
-e 670.
-<projvect2.png, id=97, 198.14024pt x 154.77824pt>
+ <use projvect.png>
+Package pdftex.def Info: projvect.png used on input line 731.
+(pdftex.def)             Requested size: 168.62958pt x 134.30142pt.
+
+<projvect2.png, id=119, 198.14024pt x 154.77824pt>
 File: projvect2.png Graphic file (type png)
-<use projvect2.png>
-Package pdftex.def Info: projvect2.png  used on input line 674. on input line 6
-74.
-Package pdftex.def Info: Requested size: 148.6048pt x 116.08339pt on input line
- 674.
+ <use projvect2.png>
+Package pdftex.def Info: projvect2.png used on input line 735.
+(pdftex.def)             Requested size: 148.6048pt x 116.08339pt.
  [21 <./projvect.png>]
 File: vectorarray.png Graphic file (type png)
-<use vectorarray.png>
-Package pdftex.def Info: vectorarray.png  used on input line 705. on input line
- 705.
-Package pdftex.def Info: Requested size: 323.7721pt x 158.99522pt on input line
- 705.
+ <use vectorarray.png>
+Package pdftex.def Info: vectorarray.png used on input line 766.
+(pdftex.def)             Requested size: 323.7721pt x 158.99522pt.
  [22 <./projvect2.png>]
 File: vectorarray.png Graphic file (type png)
+
 <use vectorarray.png>
-Package pdftex.def Info: vectorarray.png  used on input line 709. on input line
- 709.
-Package pdftex.def Info: Requested size: 323.7721pt x 158.99522pt on input line
- 709.
-<comprose.png, id=106, 1204.5pt x 1204.5pt>
+Package pdftex.def Info: vectorarray.png used on input line 770.
+(pdftex.def)             Requested size: 323.7721pt x 158.99522pt.
+ <comprose.png, id=128, 1204.5pt x 1204.5pt>
 File: comprose.png Graphic file (type png)
+
 <use comprose.png>
-Package pdftex.def Info: comprose.png  used on input line 717. on input line 71
-7.
-Package pdftex.def Info: Requested size: 120.45705pt x 120.45705pt on input lin
-e 717.
+Package pdftex.def Info: comprose.png used on input line 778.
+(pdftex.def)             Requested size: 120.45705pt x 120.45705pt.
  [23] [24 <./comprose.png (PNG copy)>]
-<polarcoordinates.png, id=113, 231.86626pt x 229.45724pt>
+<polarcoordinates.png, id=135, 231.86626pt x 229.45724pt>
 File: polarcoordinates.png Graphic file (type png)
+
 <use polarcoordinates.png>
-Package pdftex.def Info: polarcoordinates.png  used on input line 762. on input
- line 762.
-Package pdftex.def Info: Requested size: 173.89925pt x 172.0925pt on input line
- 762.
+Package pdftex.def Info: polarcoordinates.png used on input line 823.
+(pdftex.def)             Requested size: 173.89925pt x 172.0925pt.
  [25] [26 <./polarcoordinates.png>]
-<polgrid.png, id=121, 131.89275pt x 136.71075pt>
+<polgrid.png, id=143, 131.89275pt x 136.71075pt>
 File: polgrid.png Graphic file (type png)
-<use polgrid.png>
-Package pdftex.def Info: polgrid.png  used on input line 802. on input line 802
-.
-Package pdftex.def Info: Requested size: 131.89241pt x 136.7104pt on input line
- 802.
- [27 <./polgrid.png>] [28]
-<polargrid.png, id=130, 331.2375pt x 336.65775pt>
+ <use polgrid.png>
+Package pdftex.def Info: polgrid.png used on input line 863.
+(pdftex.def)             Requested size: 131.89241pt x 136.7104pt.
+ [27 <./polgrid.png>] [28] <polargrid.png, id=152, 331.2375pt x 336.65775pt>
 File: polargrid.png Graphic file (type png)
+
 <use polargrid.png>
-Package pdftex.def Info: polargrid.png  used on input line 867. on input line 8
-67.
-Package pdftex.def Info: Requested size: 248.4275pt x 252.49268pt on input line
- 867.
+Package pdftex.def Info: polargrid.png used on input line 928.
+(pdftex.def)             Requested size: 248.4275pt x 252.49268pt.
  [29 <./polargrid.png>]
 Chapter 2.
 [30
 
 ] [31] [32] [33] [34] [35] [36] [37]
-<pldist.png, id=160, 291.489pt x 260.77425pt>
+<pldist.png, id=182, 291.489pt x 260.77425pt>
 File: pldist.png Graphic file (type png)
-<use pldist.png>
-Package pdftex.def Info: pldist.png  used on input line 1197. on input line 119
-7.
-Package pdftex.def Info: Requested size: 218.61621pt x 195.5802pt on input line
- 1197.
- [38] [39 <./pldist.png>]
-<polyexamp.png, id=167, 732.93825pt x 307.1475pt>
+ <use pldist.png>
+Package pdftex.def Info: pldist.png used on input line 1258.
+(pdftex.def)             Requested size: 218.61621pt x 195.5802pt.
+ [38] [39 <./pldist.png>] <polyexamp.png, id=190, 732.93825pt x 307.1475pt>
 File: polyexamp.png Graphic file (type png)
-<use polyexamp.png>
-Package pdftex.def Info: polyexamp.png  used on input line 1231. on input line 
-1231.
-Package pdftex.def Info: Requested size: 329.81917pt x 138.21509pt on input lin
-e 1231.
-<nonpolyexamp.png, id=168, 961.191pt x 312.56775pt>
+ <use polyexamp.png>
+Package pdftex.def Info: polyexamp.png used on input line 1292.
+(pdftex.def)             Requested size: 329.81917pt x 138.21509pt.
+
+<nonpolyexamp.png, id=191, 961.191pt x 312.56775pt>
 File: nonpolyexamp.png Graphic file (type png)
-<use nonpolyexamp.png>
-Package pdftex.def Info: nonpolyexamp.png  used on input line 1235. on input li
-ne 1235.
-Package pdftex.def Info: Requested size: 336.42189pt x 109.40034pt on input lin
-e 1235.
- [40 <./polyexamp.png> <./nonpolyexamp.png>]
-<unitaxes.png, id=174, 428.19975pt x 428.802pt>
+ <use nonpolyexamp.png>
+Package pdftex.def Info: nonpolyexamp.png used on input line 1296.
+(pdftex.def)             Requested size: 336.42189pt x 109.40034pt.
+
+[40 <./polyexamp.png> <./nonpolyexamp.png>]
+<unitaxes.png, id=196, 428.19975pt x 428.802pt>
 File: unitaxes.png Graphic file (type png)
-<use unitaxes.png>
-Package pdftex.def Info: unitaxes.png  used on input line 1241. on input line 1
-241.
-Package pdftex.def Info: Requested size: 278.32654pt x 278.71799pt on input lin
-e 1241.
- [41 <./unitaxes.png>] [42]
-<p1.png, id=182, 447.47176pt x 539.616pt>
+ <use unitaxes.png>
+Package pdftex.def Info: unitaxes.png used on input line 1302.
+(pdftex.def)             Requested size: 278.32654pt x 278.71799pt.
+ [41 <./unitaxes.png>] [42] <p1.png, id=204, 447.47176pt x 539.616pt>
 File: p1.png Graphic file (type png)
-<use p1.png>
-Package pdftex.def Info: p1.png  used on input line 1346. on input line 1346.
-Package pdftex.def Info: Requested size: 178.98552pt x 215.84258pt on input lin
-e 1346.
+ <use p1.png>
+Package pdftex.def Info: p1.png used on input line 1407.
+(pdftex.def)             Requested size: 178.98552pt x 215.84258pt.
  [43]
-<p2.png, id=186, 572.73975pt x 637.1805pt>
+<p2.png, id=208, 572.73975pt x 637.1805pt>
 File: p2.png Graphic file (type png)
-<use p2.png>
-Package pdftex.def Info: p2.png  used on input line 1348. on input line 1348.
-Package pdftex.def Info: Requested size: 229.09183pt x 254.86768pt on input lin
-e 1348.
+ <use p2.png>
+Package pdftex.def Info: p2.png used on input line 1409.
+(pdftex.def)             Requested size: 229.09183pt x 254.86768pt.
  [44 <./p1.png> <./p2.png>]
 File: unitaxes.png Graphic file (type png)
-<use unitaxes.png>
-Package pdftex.def Info: unitaxes.png  used on input line 1376. on input line 1
-376.
-Package pdftex.def Info: Requested size: 214.09935pt x 214.40047pt on input lin
-e 1376.
- [45]
-<vaeven.png, id=195, 369.17924pt x 249.93375pt>
+ <use unitaxes.png>
+Package pdftex.def Info: unitaxes.png used on input line 1437.
+(pdftex.def)             Requested size: 214.09935pt x 214.40047pt.
+ [45] <vaeven.png, id=218, 369.17924pt x 249.93375pt>
 File: vaeven.png Graphic file (type png)
+
 <use vaeven.png>
-Package pdftex.def Info: vaeven.png  used on input line 1387. on input line 138
-7.
-Package pdftex.def Info: Requested size: 184.58917pt x 124.96657pt on input lin
-e 1387.
-<vaodd.png, id=196, 369.17924pt x 249.93375pt>
+Package pdftex.def Info: vaeven.png used on input line 1448.
+(pdftex.def)             Requested size: 184.58917pt x 124.96657pt.
+ <vaodd.png, id=219, 369.17924pt x 249.93375pt>
 File: vaodd.png Graphic file (type png)
+
 <use vaodd.png>
-Package pdftex.def Info: vaodd.png  used on input line 1387. on input line 1387
-.
-Package pdftex.def Info: Requested size: 184.58917pt x 124.96657pt on input lin
-e 1387.
+Package pdftex.def Info: vaodd.png used on input line 1448.
+(pdftex.def)             Requested size: 184.58917pt x 124.96657pt.
  [46] [47 <./vaeven.png> <./vaodd.png>]
-<r1.png, id=204, 696.80325pt x 636.57825pt>
+<r1.png, id=226, 696.80325pt x 636.57825pt>
 File: r1.png Graphic file (type png)
-<use r1.png>
-Package pdftex.def Info: r1.png  used on input line 1408. on input line 1408.
-Package pdftex.def Info: Requested size: 313.55856pt x 286.45757pt on input lin
-e 1408.
+ <use r1.png>
+Package pdftex.def Info: r1.png used on input line 1469.
+(pdftex.def)             Requested size: 313.55856pt x 286.45757pt.
  [48 <./r1.png>]
-<r2.png, id=209, 772.68675pt x 649.82774pt>
+<r2.png, id=231, 772.68675pt x 649.82774pt>
 File: r2.png Graphic file (type png)
-<use r2.png>
-Package pdftex.def Info: r2.png  used on input line 1418. on input line 1418.
-Package pdftex.def Info: Requested size: 347.70583pt x 292.41978pt on input lin
-e 1418.
+ <use r2.png>
+Package pdftex.def Info: r2.png used on input line 1479.
+(pdftex.def)             Requested size: 347.70583pt x 292.41978pt.
  [49 <./r2.png>]
-<r3.png, id=214, 645.00975pt x 646.21425pt>
+<r3.png, id=236, 645.00975pt x 646.21425pt>
 File: r3.png Graphic file (type png)
-<use r3.png>
-Package pdftex.def Info: r3.png  used on input line 1433. on input line 1433.
-Package pdftex.def Info: Requested size: 290.2517pt x 290.79372pt on input line
- 1433.
-<r4.png, id=215, 707.64375pt x 655.248pt>
+ <use r3.png>
+Package pdftex.def Info: r3.png used on input line 1494.
+(pdftex.def)             Requested size: 290.2517pt x 290.79372pt.
+
+<r4.png, id=237, 707.64375pt x 655.248pt>
 File: r4.png Graphic file (type png)
-<use r4.png>
-Package pdftex.def Info: r4.png  used on input line 1435. on input line 1435.
-Package pdftex.def Info: Requested size: 283.05249pt x 262.09456pt on input lin
-e 1435.
+ <use r4.png>
+Package pdftex.def Info: r4.png used on input line 1496.
+(pdftex.def)             Requested size: 283.05249pt x 262.09456pt.
  [50 <./r3.png>]
-<r5.png, id=219, 713.66624pt x 651.03226pt>
+<r5.png, id=241, 713.66624pt x 651.03226pt>
 File: r5.png Graphic file (type png)
-<use r5.png>
-Package pdftex.def Info: r5.png  used on input line 1437. on input line 1437.
-Package pdftex.def Info: Requested size: 285.46143pt x 260.40828pt on input lin
-e 1437.
+ <use r5.png>
+Package pdftex.def Info: r5.png used on input line 1498.
+(pdftex.def)             Requested size: 285.46143pt x 260.40828pt.
  [51 <./r4.png> <./r5.png>] [52]
 Chapter 3.
-<conics.png, id=227, 688.974pt x 337.26pt>
+<conics.png, id=249, 688.974pt x 337.26pt>
 File: conics.png Graphic file (type png)
-<use conics.png>
-Package pdftex.def Info: conics.png  used on input line 1477. on input line 147
-7.
-Package pdftex.def Info: Requested size: 275.58472pt x 134.9016pt on input line
- 1477.
-[53
+ <use conics.png>
+Package pdftex.def Info: conics.png used on input line 1538.
+(pdftex.def)             Requested size: 275.58472pt x 134.9016pt.
+ [53
 
- <./conics.png>] [54]
-<generalparabola2.png, id=234, 736.25063pt x 516.42938pt>
+ <./conics.png>] [54] <generalparabola2.png, id=256, 736.25063pt x 516.42938pt>
 File: generalparabola2.png Graphic file (type png)
-<use generalparabola2.png>
-Package pdftex.def Info: generalparabola2.png  used on input line 1533. on inpu
-t line 1533.
-Package pdftex.def Info: Requested size: 331.30972pt x 232.39107pt on input lin
-e 1533.
- [55] [56 <./generalparabola2.png>]
-<parabolasp.png, id=242, 719.68875pt x 653.44125pt>
-File: parabolasp.png Graphic file (type png)
-<use parabolasp.png>
-Package pdftex.def Info: parabolasp.png  used on input line 1552. on input line
- 1552.
-Package pdftex.def Info: Requested size: 287.87039pt x 261.37187pt on input lin
-e 1552.
- [57 <./parabolasp.png>]
-<parabolicreflector.jpg, id=246, 273.02pt x 185.69376pt>
-File: parabolicreflector.jpg Graphic file (type jpg)
-<use parabolicreflector.jpg>
-Package pdftex.def Info: parabolicreflector.jpg  used on input line 1574. on in
-put line 1574.
-Package pdftex.def Info: Requested size: 273.01933pt x 185.6933pt on input line
- 1574.
- [58 <./parabolicreflector.jpg>]
-<generalellipse2.png, id=251, 407.27156pt x 323.70938pt>
-File: generalellipse2.png Graphic file (type png)
-<use generalellipse2.png>
-Package pdftex.def Info: generalellipse2.png  used on input line 1592. on input
- line 1592.
-Package pdftex.def Info: Requested size: 305.45291pt x 242.78143pt on input lin
-e 1592.
- [59 <./generalellipse2.png>]
-<ellipse2.png, id=256, 618.51076pt x 494.44725pt>
-File: ellipse2.png Graphic file (type png)
-<use ellipse2.png>
-Package pdftex.def Info: ellipse2.png  used on input line 1630. on input line 1
-630.
-Package pdftex.def Info: Requested size: 247.3999pt x 197.77539pt on input line
- 1630.
- [60] [61 <./ellipse2.png>]
-<generalhyperbola2.png, id=263, 450.18187pt x 464.4853pt>
-File: generalhyperbola2.png Graphic file (type png)
-<use generalhyperbola2.png>
-Package pdftex.def Info: generalhyperbola2.png  used on input line 1660. on inp
-ut line 1660.
-Package pdftex.def Info: Requested size: 225.09038pt x 232.24208pt on input lin
-e 1660.
- [62 <./generalhyperbola2.png>] [63] [64]
-<ellipse1.png, id=275, 284.7438pt x 276.7941pt>
-File: ellipse1.png Graphic file (type png)
-<use ellipse1.png>
-Package pdftex.def Info: ellipse1.png  used on input line 1740. on input line 1
-740.
-Package pdftex.def Info: Requested size: 227.79535pt x 221.43556pt on input lin
-e 1740.
-<hyperbola1.png, id=276, 385.9218pt x 278.2395pt>
-File: hyperbola1.png Graphic file (type png)
-<use hyperbola1.png>
-Package pdftex.def Info: hyperbola1.png  used on input line 1742. on input line
- 1742.
-Package pdftex.def Info: Requested size: 289.44063pt x 208.67911pt on input lin
-e 1742.
- [65 <./ellipse1.png>]
-<parabola1.png, id=281, 401.0985pt x 278.2395pt>
-File: parabola1.png Graphic file (type png)
-<use parabola1.png>
-Package pdftex.def Info: parabola1.png  used on input line 1744. on input line 
-1744.
-Package pdftex.def Info: Requested size: 300.82312pt x 208.67911pt on input lin
-e 1744.
 
-[66 <./hyperbola1.png> <./parabola1.png>] [67]
-<ellipserot.png, id=290, 484.81125pt x 483.60675pt>
+<use generalparabola2.png>
+Package pdftex.def Info: generalparabola2.png used on input line 1594.
+(pdftex.def)             Requested size: 331.30972pt x 232.39107pt.
+ [55] [56 <./generalparabola2.png>]
+<parabolasp.png, id=264, 719.68875pt x 653.44125pt>
+File: parabolasp.png Graphic file (type png)
+ <use parabolasp.png>
+Package pdftex.def Info: parabolasp.png used on input line 1613.
+(pdftex.def)             Requested size: 287.87039pt x 261.37187pt.
+
+[57 <./parabolasp.png>]
+<parabolicreflector.jpg, id=269, 273.02pt x 185.69376pt>
+File: parabolicreflector.jpg Graphic file (type jpg)
+
+<use parabolicreflector.jpg>
+Package pdftex.def Info: parabolicreflector.jpg used on input line 1635.
+(pdftex.def)             Requested size: 273.01933pt x 185.6933pt.
+ [58 <./parabolicreflector.jpg>]
+<generalellipse2.png, id=273, 407.27156pt x 323.70938pt>
+File: generalellipse2.png Graphic file (type png)
+
+<use generalellipse2.png>
+Package pdftex.def Info: generalellipse2.png used on input line 1653.
+(pdftex.def)             Requested size: 305.45291pt x 242.78143pt.
+ [59 <./generalellipse2.png>]
+<ellipse2.png, id=278, 618.51076pt x 494.44725pt>
+File: ellipse2.png Graphic file (type png)
+ <use ellipse2.png>
+Package pdftex.def Info: ellipse2.png used on input line 1691.
+(pdftex.def)             Requested size: 247.3999pt x 197.77539pt.
+ [60]
+[61 <./ellipse2.png>]
+<generalhyperbola2.png, id=285, 450.18187pt x 464.4853pt>
+File: generalhyperbola2.png Graphic file (type png)
+
+<use generalhyperbola2.png>
+Package pdftex.def Info: generalhyperbola2.png used on input line 1721.
+(pdftex.def)             Requested size: 225.09038pt x 232.24208pt.
+ [62 <./generalhyperbola2.png>] [63] [64]
+<ellipse1.png, id=297, 284.7438pt x 276.7941pt>
+File: ellipse1.png Graphic file (type png)
+ <use ellipse1.png>
+Package pdftex.def Info: ellipse1.png used on input line 1801.
+(pdftex.def)             Requested size: 227.79535pt x 221.43556pt.
+
+<hyperbola1.png, id=298, 385.9218pt x 278.2395pt>
+File: hyperbola1.png Graphic file (type png)
+ <use hyperbola1.png>
+Package pdftex.def Info: hyperbola1.png used on input line 1803.
+(pdftex.def)             Requested size: 289.44063pt x 208.67911pt.
+ [65 <./ellipse1.png>] <parabola1.png, id=303, 401.0985pt x 278.2395pt>
+File: parabola1.png Graphic file (type png)
+
+<use parabola1.png>
+Package pdftex.def Info: parabola1.png used on input line 1805.
+(pdftex.def)             Requested size: 300.82312pt x 208.67911pt.
+ [66 <./hyperbola1.png> <./parabola1.png>] [67]
+<ellipserot.png, id=312, 484.81125pt x 483.60675pt>
 File: ellipserot.png Graphic file (type png)
-<use ellipserot.png>
-Package pdftex.def Info: ellipserot.png  used on input line 1779. on input line
- 1779.
-Package pdftex.def Info: Requested size: 242.40503pt x 241.80278pt on input lin
-e 1779.
-<rotation.png, id=291, 296.307pt x 266.1945pt>
+ <use ellipserot.png>
+Package pdftex.def Info: ellipserot.png used on input line 1840.
+(pdftex.def)             Requested size: 242.40503pt x 241.80278pt.
+
+<rotation.png, id=313, 296.307pt x 266.1945pt>
 File: rotation.png Graphic file (type png)
-<use rotation.png>
-Package pdftex.def Info: rotation.png  used on input line 1791. on input line 1
-791.
-Package pdftex.def Info: Requested size: 296.30627pt x 266.19385pt on input lin
-e 1791.
- [68 <./ellipserot.png>] [69 <./rotation.png>] [70] [71] [72] (Analytic_Geometr
-y_IBL_Notes.aux) ) 
+ <use rotation.png>
+Package pdftex.def Info: rotation.png used on input line 1852.
+(pdftex.def)             Requested size: 296.30627pt x 266.19385pt.
+ [68 <./ellipserot.png>] [69 <./rotation.png>] [70] [71] [72]
+(Analytic_Geometry_IBL_Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 5935 strings out of 493312
- 76710 string characters out of 3138897
- 182170 words of memory out of 3000000
- 9264 multiletter control sequences out of 15000+200000
+ 5987 strings out of 493333
+ 77008 string characters out of 3139193
+ 187373 words of memory out of 3000000
+ 9295 multiletter control sequences out of 15000+200000
  50474 words of font info for 119 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,45p,3277b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/symbols/msbm10.pfb><C:/Users/longne/AppData/Roaming/MiKTeX/2.9/fonts/t
-ype1/urw/symbol/usyr.pfb><C:/Users/longne/AppData/Roaming/MiKTeX/2.9/fonts/type
-1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Analytic_Geometry_IBL_Notes.pdf (75 pages, 1556903 bytes).
+ 40i,14n,45p,3277b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips
+/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/nelon/AppData/Roaming/Mi
+KTeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Users/nelon/AppData/Roaming/MiKTeX
+/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
+rw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Analytic_Geometry_IBL_Notes.pdf (82 pages, 1592773 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
+ 375 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
