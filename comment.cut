@@ -1,1 +1,9 @@
-This is a problem that will build and test the students' persistence. You will need to decide how to guide them through some of the algebra in this problem, including the suggestion to move one of the square roots from part d) to the other side of the equation to simplify the algebra). Getting student to do the work here is an important checkpoint to make sure they are ready for the final few sections of problems which will require them to work for more than a few minutes on problems that are not easily solved.
+\chapter{Notes to the Instructor}
+\renewcommand\notesname{}
+\vspace{-2cm}
+\begingroup
+%\setlength{\parindent}{0pt}% Don't know what this does.  DMC
+\setlength{\parskip}{2ex}
+\renewcommand{\enotesize}{\normalsize}
+\theendnotes
+\endgroup
