@@ -181,6 +181,53 @@ if
 necessary.
 \@endanenote 
 \@doanenote {4}
+macro:->This
+section
+can
+be
+skipped
+for
+time
+if
+necessary.
+This
+is
+a
+great
+place
+to
+reinforce
+the
+precision
+of
+mathematical
+notation
+that
+was
+worked
+on
+so
+much
+in
+the
+first
+chapter
+of
+these
+notes.
+\@endanenote 
+\@doanenote {5}
+macro:->This
+section
+can
+be
+skipped
+for
+time
+if
+necessary.
+\@endanenote 
+\@doanenote {6}
 macro:->I
 would
 suggest
@@ -304,9 +351,16 @@ shapes
 and
 the
 algebraic/geometric
-forms.
+forms
+of
+those
+shapes.
 \@endanenote 
-\@doanenote {5}
+\@doanenote {7}
+macro:->\verb
+"https://www.open.edu/openlearn/ocw/pluginfile.php/89406/mod_oucontent/oucontent/741/f381702f/158b2302/m208_1_i057i.jpg"
+\@endanenote 
+\@doanenote {8}
 macro:->Remind
 students
 here
@@ -367,7 +421,7 @@ write
 things
 up).
 \@endanenote 
-\@doanenote {6}
+\@doanenote {9}
 macro:->This
 is
 a

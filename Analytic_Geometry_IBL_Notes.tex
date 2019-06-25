@@ -436,8 +436,8 @@ Draw and label the following \underline{points} or \underline{collections of poi
 \subsection{Changes in Coordinates}
 Big Ideas:
 \begin{itemize}
-\item Using changes in coordinates to measure distance between points.
-\item Using changes in coordinates to find intermediate points.
+\item Use changes in coordinates to measure distance between points.
+\item Use changes in coordinates to find intermediate points.
 \end{itemize}
 \begin{info} The line segment between points $P$ and $Q$ is denoted $\overline{PQ}$. Remember that when describing change, you need to give both the amount of change and the direction. \end{info}
 
@@ -684,7 +684,7 @@ Vectors $\vec{\textbf{u}}$ and $\vec{\textbf{v}}$ are parallel if $\vec{\textbf{
 Big Ideas:
 \begin{itemize}
 \item Compute the dot product of two vectors
-\item Understand the relationship between the dot product, vector lengths, and angles between vectors.
+\item Understand the relationship between the dot product, vector lengths, and the angle between two vectors.
 \item Compute projections and orthogonal complements both algebraically and geometrically.
 \end{itemize}
 \begin{info} The dot product of $\vec{\textbf{u}}$ and $\vec{\textbf{v}}$ is given by $$\vec{\textbf{u}} \cdot \vec{\textbf{v}} =\langle a_1,b_1\rangle \cdot \langle a_2,b_2 \rangle=a_1a_2+b_1b_2$$
@@ -710,12 +710,12 @@ Notice that the dot product of two vectors gives you a scalar (a number), \under
 \ee
 \eq
 
-\begin{info} The following formula gives the geometric relationship between the dot product of two vectors and the length and angle of the vectors. Note that the lengths of vectors cannot be negative. $$\vec{\textbf{u}} \cdot \vec{\textbf{v}}= |\vec{\textbf{u}}| | \vec{\textbf{v}}| \cos(\theta)$$
+\begin{info} The following formula gives the geometric relationship between the dot product of two vectors, the lengths of the vectors, and angle between the vectors. Note that the lengths of vectors cannot be negative. $$\vec{\textbf{u}} \cdot \vec{\textbf{v}}= |\vec{\textbf{u}}| | \vec{\textbf{v}}| \cos(\theta)$$
 where $\theta$ is the angle between $\vec{\textbf{u}}$ and $\vec{\textbf{v}}$.
 \end{info}
 
 \bq \be
-\item For what angles, $\theta$, will $\cos(\theta)$ be positive? When will $\cos(\theta)$ be negative? When will $\cos(\theta)$ be zero?
+\item For what angles between $0$ and $\pi$, $\theta$, will $\cos(\theta)$ be positive? When will $\cos(\theta)$ be negative? When will $\cos(\theta)$ be zero?
 \item What is the largest angle possible between two vectors? Explain your answer and include pictures.
 \item Based on the formula above, what geometric relationship between $\vec{\textbf{u}}$ and $\vec{\textbf{v}}$ will make $\vec{\textbf{u}} \cdot \vec{\textbf{v}}$ be positive?
 \item Based on the formula above, what geometric relationship between $\vec{\textbf{u}}$ and $\vec{\textbf{v}}$ will make $\vec{\textbf{u}} \cdot \vec{\textbf{v}}$ be negative?
@@ -797,6 +797,7 @@ The projection of $\vec{\textbf{v}}$ onto $\vec{\textbf{w}}$ can be in the oppos
 \begin{center} \includegraphics[scale=.6]{vectorarray.png} \end{center}
 \eq
 
+\subsection{Applications of Vectors}
 
 \begin{info} Vectors are very useful in physics because they can represent many different quantities like velocity, force, or electric fields. When the forces on an object are balanced (add to $\vec{\textbf{0}}$), the object is said to be in equilibrium.
 
@@ -845,7 +846,7 @@ Big Ideas:
 \end{itemize}
 
 \begin{info}
-Previously, we specified the location of a point in the plane using the signed distance to the vertical and horizontal axes (giving the horizontal and vertical coordinates respectively). This is not the only way to use two measurements to specify location. \textbf{Polar coordinates} use two different measurements to specify the location of a point. Specifically the polar coordinates of a point $P$ are given by $(r,\theta)$ where $r$ is the distance from $P$ to the origin and $\theta$ is the angle (measured counterclockwise) from the positive horizontal axis to the segment between $P$ and the origin.
+Previously, we specified the location of a point in the plane using the signed distance to the vertical and horizontal axes (giving the horizontal and vertical coordinates respectively). This is not the only way to use two measurements to specify location. \textbf{Polar coordinates} use two different measurements to specify the location of a point. Specifically, the polar coordinates of a point $P$ are given by $(r,\theta)$ where $r$ is the distance from $P$ to the origin and $\theta$ is the angle (measured counterclockwise) from the positive horizontal axis to the segment between $P$ and the origin.
 
 You can think about the point described by polar coordinates $(r,\theta)$, as the location reached by doing the following:
 \begin{itemize}
@@ -876,31 +877,30 @@ You can think about the point described by polar coordinates $(r,\theta)$, as th
 \ee
 \eq
 
-\bq \label{q55}In general, we use the following equations as a way to convert between polar and rectangular coordinates:
-
+\bq \label{q55}Use the relationships you used in the previous problems including the definition and geometric interpretation of polar coordinates to do the following:
+\be \item Give an expression for the $x$-coordinate using $r$ and $\theta$.
 $$ x = \underline{\hspace{2in}} $$
-
+\item Give an expression for the $y$-coordinate using $r$ and $\theta$.
 $$ y = \underline{\hspace{2in}} $$
-
+\item Give an expression for $r^2$ using $x$ and $y$.
 $$ r^2 = \underline{\hspace{2in}} $$
-
+\item Give an expression for $\tan(\theta)$ using $x$ and $y$.
 $$ \tan(\theta) = \underline{\hspace{2in}} $$
-\eq
-\bq
-Write a couple of sentences to explain why you need to state the above expressions in terms of $r^2$ and $\tan(\theta)$ instead of $r$ and $\theta$?
-\eq
+\item Write a couple of sentences to explain why you need to state the above expressions in terms of $r^2$ and $\tan(\theta)$ instead of $r$ and $\theta$?
+\ee \eq
 
 In the same way that we can transform points from rectangular $(x,y)$ coordinates to polar $(r,\theta)$ coordinates and viceversa, we can convert equations in $x$ and $y$ to equations in $r$ and $\theta$ such that if a point $(x,y)$ satisfies the rectangular equation then the polar form of the point will satisfy the polar equation. In fact, we use the same substitutions in converting equations as we do in converting points. Just as you saw above, converting points from polar to rectangular was easy, converting rectangular equations to polar equations tends to be easier.
 
-Below is an example of a set of axes and a "grid" of polar coordinates.
+Below is an example of a set of axes and a \lq\lq{grid}\rq\rq of polar coordinates.
 \begin{center} \includegraphics{polgrid.png} \end{center}
 
 \bq \be
 \item Graph $y+x=0$ on rectangular axes and label 5 different points on your graph.
 \item Give the polar coordinates of the 5 points you labeled on your graph in part $a)$. What do the polar coordinates of your points have in common? Remember that points have more than one way to be written in terms of polar coordinates.
-\item Substitute your expressions above for $x$ and $y$ into $y+x=0$ to get an equation in just $r$ and $\theta$.
-\item Solve your above equation in $r$ and $\theta$ for $\theta$.
+\item Substitute your expressions from Question \ref{q55} for $x$ and $y$ into $y+x=0$ to get an equation involving $r$ and $\theta$ (that does not have any $x$ or $y$ variables).
+\item Solve your equation from the answer to the previous part for $\theta$. $$\theta = \underline{\hspace{2in}} $$
 \item Graph your answer to part $d)$ on a set of polar axes. You can see an example of polar axes above.
+\item Write a few sentences about why $y+x=0$ and your graph from the previous part will describe the same set of points.
 \ee
 \eq
 
@@ -923,7 +923,7 @@ Below is an example of a set of axes and a "grid" of polar coordinates.
 \ee
 \eq
 
-\bq Convert $\theta=\frac{\pi}{4}$ to rectangular coordinates. Simplify your answer and explain what the graph will look like. Hint: Use the $\tan(\theta)$ expression from \ref{q55}.
+\bq Convert $\theta=\frac{\pi}{4}$ to rectangular coordinates. Simplify your answer and explain what the graph will look like. Hint: Use the $\tan(\theta)$ expression from Question \ref{q55}.
 \eq
 
 \bq Convert $r=2 \cos(\theta)$ to rectangular coordinates. Simplify your answer and explain what the graph will look like. This will eventually be a familiar shape and equation.
@@ -1006,7 +1006,7 @@ Big Ideas:
 \ee
 \eq
 
-\bq Give an equation for the set of points that satisfy the following statements. Simplify the equation as much as possible (expand and combine like terms, etc.). Hint: Make sure you can write out what distances you are comparing. It may help to write out the problem just as we did in the previous question.
+\bq Give an equation for the set of points that satisfy the following statements. Simplify the equation as much as possible (expand and combine like terms, etc.). Hint: Make sure you can write out what distances you are comparing. It may help to write out the steps just as we did in the previous question.
 \be
 \item the set of points $(x,y)$ whose distance from $(0,0)$ is three times its distance from $(0,5)$.
 \item the set of points $(x,y)$ whose distance to the $x$-axis is twice the distance to $(2,5)$.
@@ -1020,28 +1020,28 @@ Big Idea:
 \begin{itemize}
 \item Understand how to use the many algebraic forms of a line including exceptions to each form.
 \end{itemize}
-In the next set of problems, we will come up with several different ways to give the equation for the set of points on a line. It is important for you to understand when each of the forms works and when it \emph{does not work}.
+In the next set of problems, we will come up with many different ways to give the equation for the set of points on a line. It is important for you to understand when each of the forms works and when it \emph{does \underline{not} work}.
 \begin{info} Given any two points, a \textbf{line} is the set of points through which the segment between the points can be extended.
-Recalling your work on Questions \ref{q13}-\ref{q14}, the point that is the fraction $t$ of the way from $(x_1,y_1)$ to $(x_2,y_2)$ is $(x_1+t(x_2-x_1),y_1+t(y_2-y_1))$. This is exactly what we have defined a line to be but is \emph{not} the familiar way you have dealt with lines before. The following form is called the \textbf{Parametric Form of a Line} through $(x_1,y_1)$ and $(x_2,y_2)$. $$(x,y)=(x_1+t(x_2-x_1),y_1+t(y_2-y_1))$$
-The term parametric comes from the use of the parameter $t$, which tells us where we are on the line relative to $(x_1,y_1)$ and $(x_2,y_2)$, but is not part of the $(x,y)$ points on the graph.
+Recalling your work on Questions \ref{q13}-\ref{q14}, the point that is the fraction $t$ of the way from $(x_1,y_1)$ to $(x_2,y_2)$ is $(x_1+t(x_2-x_1),y_1+t(y_2-y_1))$. This is exactly what we have defined a line to be but is \emph{\underline{not}} the familiar way you have dealt with lines before. The following form is called the \textbf{Parametric Form of a Line} through $(x_1,y_1)$ and $(x_2,y_2)$. $$(x,y)=(x_1+t(x_2-x_1),y_1+t(y_2-y_1))$$
+The term parametric comes from the use of the parameter $t$, which tells us where we are on the line relative to $(x_1,y_1)$ and $(x_2,y_2)$. The parameter is not part of the $(x,y)$ points on the graph.
 \end{info}
 
 \bq\label{qp} Using $(x_1,y_1)=(1,-2)$ and $(x_2,y_2) = (5,4)$, compute the point on the line when:
 \be
 \item $t=0$
 \item $t=1$
-\item $t=1/3$
+\item $t=\frac{1}{2}$
 \item $t=2$
 \item $t=-1$
-\item $t=10/3$
-\item $t=-5/2$
+\item $t=\frac{10}{3}$
+\item $t=-\frac{5}{2}$
 \ee
 \eq
 
-\bq Confirm your answers for the previous problem by graphing all of those points on the same axes. Does this parametric form make sense as the line through $(x_1,y_1)=(1,-2)$ and $(x_2,y_2) = (5,4)$?
+\bq Confirm your answers for the previous problem by graphing all of those points on the same axes. Explain why this parametric form make sense as the line through $(x_1,y_1)=(1,-2)$ and $(x_2,y_2) = (5,4)$.
 \eq
 
-\bq Give the parametric form of the line through each pair of points and simplify your answer.
+\bq Give the parametric form of the line through each pair of points and simplify your answer into something of the form $(x,y)=(f(t),g(t))$.
 \be
 \item $(3,-2)$ and $(1,1)$
 \item $(4,1)$ and $(1,1)$
@@ -1050,10 +1050,8 @@ The term parametric comes from the use of the parameter $t$, which tells us wher
 \ee
 \eq
 
-\bq Are there any lines for which the parametric form of that line does not exist?
+\bq Are there any lines for which a parametric form of that line does not exist?
 \eq
-
-
 
 \begin{info} The parametric form of a line can really be split into two coordinate equations, namely $x = x_1+t(x_2-x_1)$ and $y=y_1+t(y_2-y_1)$. \end{info}
 
@@ -1090,7 +1088,7 @@ The term parametric comes from the use of the parameter $t$, which tells us wher
 \bq Give the Intercept Form of the line through $(2,-5)$ and $(1,1)$. Hint: What are the $x-$ and $y-$ intercepts of the line through $(-2,5)$ and $(1,1)$?
 \eq
 
-\bq Give a form for horizontal lines. In other words, what kind of equation will a horizontal line have and what kind of equation completely determines a horizontal line?
+\bq Give an algebraic form for horizontal lines. In other words, what kind of equation will a horizontal line have and what kind of equation completely determines a horizontal line?
 \eq
 
 \bq\label{q15} Give a form for vertical lines.
@@ -1098,7 +1096,7 @@ The term parametric comes from the use of the parameter $t$, which tells us wher
 
 \begin{info} All of the forms we have talked about can be rewritten in some way as $ Ax+By+C=0$. This is called the \textbf{General Form of a Line}. It turns out that anything written in the form $ Ax+By+C=0$ will have a graph as a line and the equation of any line can be expressed in the form $ Ax+By+C=0$.  \end{info}
 
-\question Give the equation of the line through $(x_1,y_1)=(1,-2)$ and $(x_2,y_2) = (5,4)$ in General Form.
+\question Give the equation of the line through $(x_1,y_1)=(1,-2)$ and $(x_2,y_2) = (5,4)$ in General Form. What are the values for $A$, $B$, and $C$ for your line?
 
 \question Give the equation of a line with slope 5 through $(3,-7)$ in General Form.
 
@@ -1184,6 +1182,9 @@ Big Idea:
 
 \subsection{Sets of Lines}
 
+\begin{annotation}
+\endnote{This section can be skipped for time if necessary. This is a great place to reinforce the precision of mathematical notation that was worked on so much in the first chapter of these notes.}
+\end{annotation}
 Big Ideas:
 \begin{itemize}
 \item Understand and use set notation.
@@ -1274,6 +1275,13 @@ The set $\{ y=2x+b| b \in \mathbb{R}\}$ contains lines with $\underline{\hspace{
 \eq
 
 \subsection{The Distance from a Point to a Line}
+\begin{annotation}
+\endnote{This section can be skipped for time if necessary.}
+\end{annotation}
+Big Idea:
+\begin{itemize}
+\item Understand and compute the shortest distance between a line and a point not on the line
+\end{itemize}
 \bq
 \be
 \item What is the equation of the line that makes up the vertical axis?
@@ -1430,7 +1438,7 @@ The most efficient method of plotting polynomials by hand is to
 \ee
 \eq
 
-In the preceding problems, we used algebra to figure out the geometry. As it turns out, it is just as easy to go backwards once you understand where each piece comes from.
+In the preceding problems, we used algebra to figure out the geometry. As it turns out, it is as easy to go backwards once you understand where each piece of a graph comes from algebraically.
 \bq
 \be
 \item Draw a graph of the simplest polynomial that has the following properties:
@@ -1446,9 +1454,9 @@ In the preceding problems, we used algebra to figure out the geometry. As it tur
 \item Give the right and left end behaviors of each graph.
 \item Use your answer to previous parts to give $y$ as a polynomial in $x$ that fits each of the graphs below.
 \ee
-\begin{center} \includegraphics[scale=.3]{p3.png} \end{center}
+\begin{center} \includegraphics[scale=.35]{p3.png} \end{center}
 
-\begin{center} \includegraphics[scale=.3]{p4.png} \end{center}
+\begin{center} \includegraphics[scale=.45]{p4.png} \end{center}
 \eq
 
 \section{Rational Polynomials and Their Graphs}
@@ -1474,9 +1482,9 @@ Big Ideas:
 \eq
 
 \bq Draw the graphs for the following basic rational polynomials on the same set of axes below:
-$$ y=1/x, y=1/x^2, y=1/x^3, y=1/x^4$$
+$$ y=1/x,\quad y=1/x^2, \quad y=1/x^3, \quad y=1/x^4$$
 
-\includegraphics[scale=.5]{unitaxes.png}
+\begin{center} \includegraphics[scale=.5]{unitaxes.png} \end{center}
 
 \be
 \item What patterns do you see for the end behavior? Do even degrees still have the same behavior on both sides? Do odd degrees have opposite behaviors?
@@ -1487,7 +1495,7 @@ $$ y=1/x, y=1/x^2, y=1/x^3, y=1/x^4$$
 \begin{info}
 A rational polynomial of the form $y =\frac{f(x)}{g(x)}$ will have a vertical asymptote at $x=a$ if $g(a)=0$ and $f(a) \neq 0$. Vertical asymptotes have multiplicity the same way that $x$-intercepts do and you can determine the directions (same or opposite) in which the asymptote will be approached in the same way. In other words, a vertical asymptote $x=a$ coming from a term of multiplicity $k$ (the factor will look like $(x-a)^k$) will behave like $1/x^k$ does around $x=0$. The graph of a rational polynomial should \textbf{NOT} intersect a vertical asymptote since the denominator of the rational polynomial is zero at the $x$-value given by the vertical asymptote.
 
-\begin{center} \includegraphics[scale=.5]{vaeven.png} \includegraphics[scale=.5]{vaodd.png} \end{center}
+\begin{center} \includegraphics[scale=.75]{vaeven.png} \includegraphics[scale=.75]{vaodd.png} \end{center}
 \end{info}
 \bq Give all vertical asymptotes (and their multiplicity) for the following rational polynomials:
 \be
@@ -1505,6 +1513,14 @@ A rational polynomial of the form $y =\frac{f(x)}{g(x)}$ will have a vertical as
 Horizontal and slant asymptotes describe some of the \underline{possible} end behaviors of rational polynomials. Because we are trying to describe end behavior, we need to look at the highest degree terms, specifically the \textbf{ratio of the highest degree terms} in the numerator and denominator. The ratio of the highest degree terms is different than the ratio of the degree of the numerator to the degree of the denominator.
 
 Similar to a polynomial, a rational polynomial will have the same end behavior as the ratio of its highest degree terms. Horizontal asymptotes correspond to horizontal (or constant) behavior on the ends and slant asymptotes correspond to slanted (non-horizontal) linear behavior on the ends. If you find that the graph has a slant asymptote, then you need to perform polynomial division to find the slant asymptote.
+
+\begin{center}
+\includegraphics[scale=.35]{even_horiz_asymp_example.png}
+
+\includegraphics[scale=.35]{odd_horiz_asymp_example.png}
+
+\includegraphics[scale=.35]{slant_asymp_example.png}
+\end{center}
 \end{info}
 
 \bq Answer all of the questions based on the following graph of a rational polynomial.
@@ -1512,17 +1528,17 @@ Similar to a polynomial, a rational polynomial will have the same end behavior a
 \be
 \item List out all vertical asymptotes of the rational polynomial and their multiplicities.
 \item Give all intercepts (both $x$ and $y$) for the rational polynomial.
-\item What line does this graph have as an end behavior? In other words, what line does this graph approach as you go off the ends of the graph. It may be helpful to cover up the middle part of the graph to look at the end behavior (from -4 to 4 in $x$).
+\item What line does this graph have as an end behavior? In other words, what line does this graph approach as you go off the ends of the graph. It may be helpful to cover up the middle part of the graph (from -4 to 4 in $x$) to look at the end behavior.
 \ee
 \eq
-As the previous problem shows, horizontal asymptotes can cross the graph of a rational polynomial because they only describe the behavior of the graph on the right and left edges and do not tell us what is happening in the middle of the graph.
+As the previous problem shows, horizontal asymptotes can cross the graph of a rational polynomial because horizontal (and slant) asymptotes only describe the behavior of the graph on the right and left edges and do not tell us what is happening in the middle of the graph.
 
 \bq Answer all of the questions based on the following graph of a rational polynomial.
 \begin{center} \includegraphics[scale=.45]{r2.png} \end{center}
 \be
 \item List out all vertical asymptotes of the rational polynomial and their multiplicities.
 \item Give all intercepts (both $x$ and $y$) for the rational polynomial.
-\item What line does this graph have as an end behavior? In other words, what line does this graph approach as you go off the ends of the graph. It may be helpful to cover up the middle part of the graph to look at the end behavior (from -4 to 4 in $x$).
+\item What line does this graph have as an end behavior? In other words, what line does this graph approach as you go off the ends of the graph. It may be helpful to cover up the middle part of the graph(from -4 to 4 in $x$) to look at the end behavior.
 \ee
 \eq
 The previous problem shows how the end behavior of a rational polynomial can be a slanted line. As you will see over the next several problems, rational polynomials can have only one of the following possibilities: a horizontal asymptote, a slant asymptote, or neither.
@@ -1530,7 +1546,7 @@ The previous problem shows how the end behavior of a rational polynomial can be 
 \bq For each of the following graphs,
 \be
 \item State all vertical asymptotes and their multiplicities
-\item State all $x$- and $y$- intercepts (including multiplicities for $x$-intercepts.
+\item State all $x$- and $y$- intercepts (including multiplicities for $x$-intercepts).
 \item State if the graph has a horizontal asymptote, slant asymptote, or neither. Give the equation of the horizontal or slant asymptote, if they exist.
 \ee
 \begin{center} \includegraphics[scale=.45]{r3.png}
@@ -1543,8 +1559,8 @@ The previous problem shows how the end behavior of a rational polynomial can be 
 
 \bq \be
 \item What is the ratio of the highest degree terms for the following rational polynomials?
-\item Simplify the ratio of the highest degree terms. What will then end behavior of this simplified expression be?
-\item What is the right and left end behavior, in other words, what horizontal or slant asymptotes will the graph have? Remember that if you have a slant asymptote, you will need to perform polynomial long division on the rational polynomial to find the equation of the slant asymptote.
+\item Simplify the ratio of the highest degree terms. What will the end behavior of this simplified expression be?
+\item What is the right and left end behavior? In other words, what horizontal or slant asymptotes will the graph have? Remember that if you have a slant asymptote, you will need to perform polynomial long division on the rational polynomial to find the equation of the slant asymptote.
 \ee
 \be
 \item $y=\frac{x^2-1}{x^2+1}$
@@ -1579,15 +1595,21 @@ The previous problem shows how the end behavior of a rational polynomial can be 
 -They identify the shape of the graph should be a line.\newline
 -They plot the graph using a minimal set of information (namely two points, then connect and extend)\newline
 -This is where you can have them go the other way (find an equation for the line in a given picture) or go right into talking about building the correspondences between algebraic forms and minimal geometric information for graphing.\newline
--This last chapter is about understanding some semi-familiar shapes and the algebraic/geometric forms.}
+-This last chapter is about understanding some semi-familiar shapes and the algebraic/geometric forms of those shapes.}
 \end{annotation}
 
 \begin{info} Previously, we had the general form of a line as given by the general 1st degree equation: $$Ax+By+C=0$$
 
-In the next several weeks we will be looking at the \textbf{general second degree equation}: $$Ax^2+Bxy+Cy^2+Dx+Ey+F=0$$
+In this chapter, we will be looking at the \textbf{general second degree equation}: $$Ax^2+Bxy+Cy^2+Dx+Ey+F=0$$
 
 The possible graphs of the general second degree equation are called conic sections.
-\begin{center}\includegraphics[scale=.4]{conics.png}\end{center}
+\begin{center}\includegraphics[scale=.5]{conics.png}
+
+Credit: The Open University \begin{annotation}
+\endnote{\verb"https://www.open.edu/openlearn/ocw/pluginfile.php/89406/mod_oucontent/oucontent/741/f381702f/158b2302/m208_1_i057i.jpg"}
+
+\end{annotation}
+\end{center}
 \end{info}
 \section{Cirlces}
 Big Ideas:
