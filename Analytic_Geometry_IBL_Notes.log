@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.7)  25 JUN 2019 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.7)  26 JUN 2019 11:21
 entering extended mode
 **./Analytic_Geometry_IBL_Notes.tex
 (Analytic_Geometry_IBL_Notes.tex
@@ -645,12 +645,9 @@ Chapter 2.
 [32
 
 ] [33]
-Overfull \hbox (12.29536pt too wide) in paragraph at lines 1044--1046
+Underfull \hbox (badness 7133) in paragraph at lines 1044--1046
 \OT1/ptm/m/it/12 points and sim-plify your an-swer into some-thing of the form 
-$\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 x; y\OT1/ztmcm/m/n/12 ) = (\OML/ztmcm/m/
-it/12 f\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 t\OT1/ztmcm/m/n/12 )\OML/ztmcm/m/i
-t/12 ; g\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 t\OT1/ztmcm/m/n/12 ))$\OT1/ptm/m/
-it/12 . 
+
  []
 
 [34] [35] [36] [37] Including 'annotation' comment.
@@ -789,80 +786,85 @@ Package pdftex.def Info: generalparabola2.png  used on input line 1668.
 
 
 Straight input of comment.cut. (comment.cut) [61 <./generalparabola2.png>]
-<parabolasp.png, id=286, 719.68875pt x 653.44125pt>
-File: parabolasp.png Graphic file (type png)
-<use parabolasp.png>
-Package pdftex.def Info: parabolasp.png  used on input line 1692.
-(pdftex.def)             Requested size: 287.87039pt x 261.37187pt.
+<parabolasp3.png, id=286, 703.87968pt x 663.98062pt>
+File: parabolasp3.png Graphic file (type png)
+<use parabolasp3.png>
+Package pdftex.def Info: parabolasp3.png  used on input line 1692.
+(pdftex.def)             Requested size: 281.54688pt x 265.58754pt.
 
-[62 <./parabolasp.png>]
-<parabolic-reflector.png, id=290, 296.10625pt x 171.64125pt>
-File: parabolic-reflector.png Graphic file (type png)
-<use parabolic-reflector.png>
-Package pdftex.def Info: parabolic-reflector.png  used on input line 1714.
-(pdftex.def)             Requested size: 296.10551pt x 171.64081pt.
- [63 <./parabolic-reflector.png>]
-<generalellipse2.png, id=296, 407.27156pt x 323.70938pt>
-File: generalellipse2.png Graphic file (type png)
-<use generalellipse2.png>
-Package pdftex.def Info: generalellipse2.png  used on input line 1732.
-(pdftex.def)             Requested size: 305.45291pt x 242.78143pt.
- [64 <./generalellipse2.png>] Including 'annotation' comment.
+[62 <./parabolasp3.png>]
+<parabolic-reflector2.png, id=290, 662.475pt x 464.4853pt>
+File: parabolic-reflector2.png Graphic file (type png)
+<use parabolic-reflector2.png>
+Package pdftex.def Info: parabolic-reflector2.png  used on input line 1714.
+(pdftex.def)             Requested size: 264.9853pt x 185.79083pt.
+ [63 <./parabolic-reflector2.png>]
+<generalellipse3.png, id=295, 602.25pt x 656.4525pt>
+File: generalellipse3.png Graphic file (type png)
+<use generalellipse3.png>
+Package pdftex.def Info: generalellipse3.png  used on input line 1732.
+(pdftex.def)             Requested size: 271.01pt x 295.4009pt.
+ [64 <./generalellipse3.png>] Including 'annotation' comment.
 \openout5 = `comment.cut'.
 
  Straight input of comment.cut.
 (comment.cut)
-<ellipse4.png, id=301, 670.75594pt x 456.95718pt>
+<ellipse4.png, id=300, 670.75594pt x 456.95718pt>
 File: ellipse4.png Graphic file (type png)
 <use ellipse4.png>
-Package pdftex.def Info: ellipse4.png  used on input line 1765.
+Package pdftex.def Info: ellipse4.png  used on input line 1766.
 (pdftex.def)             Requested size: 335.37714pt x 228.47803pt.
  [65]
-<ellipse2.png, id=305, 618.51076pt x 494.44725pt>
+<ellipse2.png, id=304, 618.51076pt x 494.44725pt>
 File: ellipse2.png Graphic file (type png)
 <use ellipse2.png>
-Package pdftex.def Info: ellipse2.png  used on input line 1776.
+Package pdftex.def Info: ellipse2.png  used on input line 1782.
 (pdftex.def)             Requested size: 247.3999pt x 197.77539pt.
  [66 <./ellipse4.png>] [67 <./ellipse2.png>]
-<generalhyperbola2.png, id=313, 450.18187pt x 464.4853pt>
+<generalhyperbola2.png, id=312, 450.18187pt x 464.4853pt>
 File: generalhyperbola2.png Graphic file (type png)
 <use generalhyperbola2.png>
-Package pdftex.def Info: generalhyperbola2.png  used on input line 1801.
+Package pdftex.def Info: generalhyperbola2.png  used on input line 1807.
 (pdftex.def)             Requested size: 225.09038pt x 232.24208pt.
- [68 <./generalhyperbola2.png>] [69] [70]
-<ellipse1.png, id=325, 284.7438pt x 276.7941pt>
-File: ellipse1.png Graphic file (type png)
-<use ellipse1.png>
-Package pdftex.def Info: ellipse1.png  used on input line 1887.
-(pdftex.def)             Requested size: 227.79535pt x 221.43556pt.
-<hyperbola1.png, id=326, 385.9218pt x 278.2395pt>
-File: hyperbola1.png Graphic file (type png)
-<use hyperbola1.png>
-Package pdftex.def Info: hyperbola1.png  used on input line 1889.
-(pdftex.def)             Requested size: 289.44063pt x 208.67911pt.
- [71 <./ellipse1.png>]
-<parabola1.png, id=331, 401.0985pt x 278.2395pt>
-File: parabola1.png Graphic file (type png)
-<use parabola1.png>
-Package pdftex.def Info: parabola1.png  used on input line 1891.
-(pdftex.def)             Requested size: 300.82312pt x 208.67911pt.
- [72 <./hyperbola1.png> <./parabola1.png>] [73]
-<ellipserot.png, id=340, 484.81125pt x 483.60675pt>
-File: ellipserot.png Graphic file (type png)
-<use ellipserot.png>
-Package pdftex.def Info: ellipserot.png  used on input line 1926.
-(pdftex.def)             Requested size: 242.40503pt x 241.80278pt.
-<rotation.png, id=341, 296.307pt x 266.1945pt>
-File: rotation.png Graphic file (type png)
-<use rotation.png>
-Package pdftex.def Info: rotation.png  used on input line 1938.
-(pdftex.def)             Requested size: 296.30627pt x 266.19385pt.
- [74 <./ellipserot.png>] [75 <./rotation.png>] [76] [77] [78]
-Including 'annotation' comment.
+ [68 <./generalhyperbola2.png>] Including 'annotation' comment.
 \openout5 = `comment.cut'.
 
- Straight input of comment.cut. (comment.cut
-(Analytic_Geometry_IBL_Notes.ent
+ Straight input of comment.cut.
+(comment.cut) [69] [70]
+<ellipse1.png, id=324, 284.7438pt x 276.7941pt>
+File: ellipse1.png Graphic file (type png)
+<use ellipse1.png>
+Package pdftex.def Info: ellipse1.png  used on input line 1897.
+(pdftex.def)             Requested size: 227.79535pt x 221.43556pt.
+ [71]
+<hyperbola1.png, id=328, 385.9218pt x 278.2395pt>
+File: hyperbola1.png Graphic file (type png)
+<use hyperbola1.png>
+Package pdftex.def Info: hyperbola1.png  used on input line 1899.
+(pdftex.def)             Requested size: 289.44063pt x 208.67911pt.
+<parabola1.png, id=329, 401.0985pt x 278.2395pt>
+File: parabola1.png Graphic file (type png)
+<use parabola1.png>
+Package pdftex.def Info: parabola1.png  used on input line 1901.
+(pdftex.def)             Requested size: 300.82312pt x 208.67911pt.
+ [72 <./ellipse1.png> <./hyperbola1.png>] [73 <./parabola1.png>]
+<ellipserot.png, id=339, 484.81125pt x 483.60675pt>
+File: ellipserot.png Graphic file (type png)
+<use ellipserot.png>
+Package pdftex.def Info: ellipserot.png  used on input line 1936.
+(pdftex.def)             Requested size: 242.40503pt x 241.80278pt.
+ [74]
+<rotation.png, id=343, 296.307pt x 266.1945pt>
+File: rotation.png Graphic file (type png)
+<use rotation.png>
+Package pdftex.def Info: rotation.png  used on input line 1949.
+(pdftex.def)             Requested size: 296.30627pt x 266.19385pt.
+ [75 <./ellipserot.png>] [76 <./rotation.png>] [77] [78]
+[79] Including 'annotation' comment.
+\openout5 = `comment.cut'.
+
+ Straight input of comment.cut.
+(comment.cut (Analytic_Geometry_IBL_Notes.ent
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 43.
 
@@ -873,19 +875,19 @@ ar shapes and the al-ge-braic/geometric
 
 
 Overfull \hbox (286.64455pt too wide) in paragraph at lines 360--362
-[][][][]\OT1/cmtt/m/n/10 "https://www.open.edu/openlearn/ocw/pluginfile.php/894
-06/mod_oucontent/oucontent/741/f381702f/158b2302/m208_1_i057i.jpg" 
+[][][][]\OT1/cmtt/m/n/10 {https://www.open.edu/openlearn/ocw/pluginfile.php/894
+06/mod_oucontent/oucontent/741/f381702f/158b2302/m208_1_i057i.jpg} 
  []
 
-[79
+[80
 
 
-])) [80] (Analytic_Geometry_IBL_Notes.aux) ) 
+])) [81] (Analytic_Geometry_IBL_Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 6000 strings out of 493305
- 78644 string characters out of 3138872
- 182630 words of memory out of 3000000
- 9292 multiletter control sequences out of 15000+200000
+ 6004 strings out of 493305
+ 78747 string characters out of 3138872
+ 182652 words of memory out of 3000000
+ 9294 multiletter control sequences out of 15000+200000
  56363 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,45p,3277b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -903,9 +905,9 @@ TeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi
 8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Analytic_Geometry_IBL_Notes.pdf (90 pages, 1734957 bytes).
+Output written on Analytic_Geometry_IBL_Notes.pdf (91 pages, 1740776 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
+ 416 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
